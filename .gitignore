@@ -1,0 +1,14 @@
+# Eclipse-specific files and folders
+.metadata/
+.project
+.classpath
+.settings/
+
+# Compiled output
+bin/
+target/
+
+# IDE-specific files (optional, depending on your IDE)
+.idea/
+.vscode/
+
